@@ -58,7 +58,7 @@ void clear_buffer() // function to clear unwanted keyboar buffer
 void print_menu() // function to print the main menu
 {
     printf("+--------------------------------+\n");
-    printf("| Choose one operation:           |\n");
+    printf("| Choose one operation:          |\n");
     printf("+--------------------------------+\n");
     printf("| 1 - Addition                   |\n");
     printf("| 2 - Subtraction                |\n");
